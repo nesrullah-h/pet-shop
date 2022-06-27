@@ -1,0 +1,187 @@
+.slider{
+    .carousel-inner{
+        .carousel-item{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            img{
+                position: relative;
+                
+            }
+            .slide-content{
+                position: absolute;
+                color: white;
+                text-align: center;
+                font-size: 40px;
+                h1{
+                    font-size: 80px;
+                }
+                .btn{
+                    font-size: 30px;
+                }
+            }
+
+        }
+    }
+   
+}
+.vacation{
+    .vacation-part{
+        background-color: bisque;
+    }
+    .book-vacation{
+        background-color: rgb(243, 117, 0);
+        .btn{
+            width: 65%;
+            text-align: center;
+            display: flex;
+            justify-content: center;
+           
+        }
+        .inputst{
+            padding-top: 80px;
+        }
+       
+    }
+    .book-content{
+        h4{
+            color: rgb(65, 218, 65);
+        }
+        h1{
+            font-weight: bold;
+          font-size: xxx-large;
+        }
+        .pet-home{
+            justify-content: center;
+        }
+    }
+}
+
+.about{
+  .about-part{
+    margin-top: 100px;
+  }
+    ul{
+padding-left: 0;
+margin-left: 0;
+        li{
+            list-style: none;
+        }
+    }
+    .button{
+        display: flex;
+        justify-content: flex-start;
+    }
+    .photo{
+        img{
+            width: 100%;
+            padding: 0 auto 0 auto;
+        }
+        .photo2{
+            margin: 0;
+            padding: 0px !important; 
+        }
+    }
+}
+
+.services{
+    .services-part{
+        background-color: bisque;
+        .content-title{
+            text-align: center;
+            margin-top: 100px;
+            padding-top: 100px;
+            
+            h4{
+                color: aqua;
+            }
+        }
+        .services-card{
+            text-align: center;
+            margin-top: 30px;
+            padding-bottom: 100px;
+            .fa-solid{
+                font-size: 40px;
+                margin-top: 40px;
+            }
+            .row{
+                padding-top: 25px;
+            }
+        }
+    }
+}
+
+.special{
+    .special-part{
+        img{
+            width: 100%;
+        }
+        .special-content{
+            padding-top: 80px;
+            h4{
+                color: green;
+            }
+        }
+        .special-home{
+           text-align: center;
+           padding-left: 100px;
+           padding-top: 30px;
+           .title{
+            padding-top: 40px;
+           }
+            i{
+                font-size: 30px;
+            }
+        }
+    }
+}
+
+.pricing{
+    background-color: bisque;
+    .content-title{
+        text-align: center  ;
+        margin-top: 50px;
+        padding-top: 50px;
+    }
+    .price{
+        .card-body{
+            img{
+                width: 100%;
+            }
+        }
+        li{
+            .list-group-item{
+                font-size: 60px;
+            }
+            .icon1{
+                color: green;
+                font-size: 20px;
+            }
+            .icon2{
+                color: red;
+                font-size: 10px;
+                font-size: 20px;
+            }
+        }
+    }
+}
+
+.team{
+    .team-part{
+        text-align: center  ;
+        margin-top: 50px;
+        padding-top: 50px;
+
+        h4{
+            color: green;
+        }
+    }
+}
+
+.blog{
+    .blog-part{
+        text-align: center  ;
+        margin-top: 50px;
+        padding-top: 50px;
+    }
+}

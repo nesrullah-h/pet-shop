@@ -1,0 +1,271 @@
+.start .temp-logo {
+  padding-top: 10px;
+}
+
+.start .temp-logo a {
+  text-decoration: none;
+  color: black;
+}
+
+.start .temp-logo .pet-logo {
+  padding-left: 90px;
+}
+
+.start .temp-intro {
+  background-color: #16e7a2;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 60px;
+}
+
+.start .temp-intro a {
+  margin-top: 10px;
+  text-decoration: none;
+  color: white;
+  font-size: 18px;
+}
+
+.start .start-icons {
+  text-align: end;
+  padding-right: 40px;
+}
+
+.start .start-icons i {
+  color: white;
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: flex-end;
+  padding-right: 10px;
+  font-size: 20px;
+  margin-top: 10px;
+}
+
+.start .cont-total {
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: flex-end;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.start .start-cont {
+  padding-right: 30px;
+}
+
+.navbar {
+  padding: 25px;
+}
+
+.navbar .nav-item a:hover {
+  background-color: red;
+}
+
+.slider .carousel-inner .carousel-item {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.slider .carousel-inner .carousel-item img {
+  position: relative;
+}
+
+.slider .carousel-inner .carousel-item .slide-content {
+  position: absolute;
+  color: white;
+  text-align: center;
+  font-size: 40px;
+}
+
+.slider .carousel-inner .carousel-item .slide-content h1 {
+  font-size: 80px;
+}
+
+.slider .carousel-inner .carousel-item .slide-content .btn {
+  font-size: 30px;
+}
+
+.vacation .vacation-part {
+  background-color: bisque;
+}
+
+.vacation .book-vacation {
+  background-color: #f37500;
+}
+
+.vacation .book-vacation .btn {
+  width: 65%;
+  text-align: center;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.vacation .book-vacation .inputst {
+  padding-top: 80px;
+}
+
+.vacation .book-content h4 {
+  color: #41da41;
+}
+
+.vacation .book-content h1 {
+  font-weight: bold;
+  font-size: xxx-large;
+}
+
+.vacation .book-content .pet-home {
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.about .about-part {
+  margin-top: 100px;
+}
+
+.about ul {
+  padding-left: 0;
+  margin-left: 0;
+}
+
+.about ul li {
+  list-style: none;
+}
+
+.about .button {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: start;
+      -ms-flex-pack: start;
+          justify-content: flex-start;
+}
+
+.about .photo img {
+  width: 100%;
+  padding: 0 auto 0 auto;
+}
+
+.about .photo .photo2 {
+  margin: 0;
+  padding: 0px !important;
+}
+
+.services .services-part {
+  background-color: bisque;
+}
+
+.services .services-part .content-title {
+  text-align: center;
+  margin-top: 100px;
+  padding-top: 100px;
+}
+
+.services .services-part .content-title h4 {
+  color: aqua;
+}
+
+.services .services-part .services-card {
+  text-align: center;
+  margin-top: 30px;
+  padding-bottom: 100px;
+}
+
+.services .services-part .services-card .fa-solid {
+  font-size: 40px;
+  margin-top: 40px;
+}
+
+.services .services-part .services-card .row {
+  padding-top: 25px;
+}
+
+.special .special-part img {
+  width: 100%;
+}
+
+.special .special-part .special-content {
+  padding-top: 80px;
+}
+
+.special .special-part .special-content h4 {
+  color: green;
+}
+
+.special .special-part .special-home {
+  text-align: center;
+  padding-left: 100px;
+  padding-top: 30px;
+}
+
+.special .special-part .special-home .title {
+  padding-top: 40px;
+}
+
+.special .special-part .special-home i {
+  font-size: 30px;
+}
+
+.pricing {
+  background-color: bisque;
+}
+
+.pricing .content-title {
+  text-align: center;
+  margin-top: 50px;
+  padding-top: 50px;
+}
+
+.pricing .price .card-body img {
+  width: 100%;
+}
+
+.pricing .price li .list-group-item {
+  font-size: 60px;
+}
+
+.pricing .price li .icon1 {
+  color: green;
+  font-size: 20px;
+}
+
+.pricing .price li .icon2 {
+  color: red;
+  font-size: 10px;
+  font-size: 20px;
+}
+
+.team .team-part {
+  text-align: center;
+  margin-top: 50px;
+  padding-top: 50px;
+}
+
+.team .team-part h4 {
+  color: green;
+}
+
+.blog .blog-part {
+  text-align: center;
+  margin-top: 50px;
+  padding-top: 50px;
+}
+
+.theend {
+  background-color: black;
+}
+
+.bio-end {
+  background-color: black;
+}

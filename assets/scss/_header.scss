@@ -1,0 +1,53 @@
+.start{
+    .temp-logo{
+        padding-top: 10px;
+        a{
+            text-decoration: none;
+            color: black;
+        }
+        .pet-logo{
+            padding-left: 90px;
+        }
+    }
+    .temp-intro{
+        background-color: rgb(22, 231, 162);
+        padding-top: 10px;
+        padding-bottom: 10px;
+       padding-left: 60px;
+        a{
+            margin-top: 10px;
+            text-decoration: none;
+            color: white;
+            font-size: 18px;
+        }
+    }
+   .start-icons{
+       text-align: end;
+       padding-right: 40px;
+       i{
+           color: white;
+           justify-content: flex-end;
+           padding-right: 10px;
+           font-size: 20px;
+           margin-top: 10px;
+       }
+   }
+   .cont-total{
+       justify-content: flex-end;
+       display: flex;
+   }
+   .start-cont{
+       padding-right: 30px;
+    
+   }
+}
+.navbar{
+    padding: 25px;
+    .nav-item{
+        a{
+            &:hover{
+                background-color: red;
+            }
+        }
+    }
+}
